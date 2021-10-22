@@ -1,0 +1,24 @@
+[
+{
+    "empId":1,
+    "firstName": "Erin",
+    "lastName": "Slaney",
+    "email": "erin.slaney@keyin.com",
+    "isManager": false
+},
+{
+    "empId":2,
+    "firstName": "Kris",
+    "lastName": "Hamlyn",
+    "email": "krishamlyn@gmail.com",
+    "isManager": true
+},
+{
+    "empId":3,
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john.smith@keyin.com",
+    "isManager": false
+}
+
+]
